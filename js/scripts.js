@@ -1,0 +1,4 @@
+// Scripts //
+
+$('div').fitVids();
+
