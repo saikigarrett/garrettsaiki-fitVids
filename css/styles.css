@@ -1,5 +1,6 @@
 /*Styling*/
 
-body {
-    background: #167ebf;
+iframe {
+  max-width: 100%;
+  width: 100%;
 }
